@@ -1,0 +1,39 @@
+Block Name,Row ID,Cardinality,Kurtosis,M2,M3,M4,Maximum,Mean,Minimum,Skewness,Standard Deviation,Sum,Variable,Variance
+Primary Statistics,0,587504,,3.07643e+14,-1.17963e+18,7.11709e+24,553443,-1067.06,-494543,,,,cauchy stress_0,
+Primary Statistics,1,587504,,4.76597e+14,-6.9201e+17,1.17946e+25,587695,-734.254,-543300,,,,cauchy stress_1,
+Primary Statistics,2,587504,,1.3968e+14,2.40839e+16,1.41619e+24,273760,-310.422,-254024,,,,cauchy stress_2,
+Primary Statistics,3,587504,,1.34582e+14,1.80985e+17,5.95449e+23,229897,-254.771,-251644,,,,cauchy stress_3,
+Primary Statistics,4,587504,,2.77574e+13,2.96012e+15,2.71974e+22,81074.6,217.756,-109614,,,,cauchy stress_4,
+Primary Statistics,5,587504,,1.98022e+13,-5.29882e+16,1.64382e+22,81913.9,-525.416,-83276.2,,,,cauchy stress_5,
+Primary Statistics,6,587504,,8.43995e+14,1.18697e+20,3.17233e+25,618634,21171.4,6.9647e-14,,,,cauchy stress_L₂,
+Primary Statistics,7,587504,,8.57518e-11,2.8573e-18,1.49367e-25,8.23356e-08,4.14656e-09,-3.06769e-08,,,,displacement_0,
+Primary Statistics,8,587504,,6.26401e-11,-1.34687e-18,1.06658e-25,5.19464e-08,-1.7149e-09,-7.90824e-08,,,,displacement_1,
+Primary Statistics,9,587504,,5.30309e-13,-2.71722e-22,6.58187e-30,6.58394e-09,-4.55864e-11,-7.29022e-09,,,,displacement_2,
+Primary Statistics,10,587504,,1.29405e-10,4.84079e-18,2.59496e-25,8.24321e-08,7.30457e-09,0,,,,displacement_L₂,
+Primary Statistics,11,587504,,2.0643e-08,1.9651e-17,2.12189e-20,4.39928e-06,-6.77973e-09,-3.60487e-06,,,,total strain_0,
+Primary Statistics,12,587504,,2.96885e-08,-2.94902e-16,3.7307e-20,4.90965e-06,-2.53247e-09,-4.70482e-06,,,,total strain_1,
+Primary Statistics,13,587504,,2.42129e-09,6.23006e-17,2.43042e-22,1.7624e-06,2.87643e-09,-1.64792e-06,,,,total strain_2,
+Primary Statistics,14,587504,,2.19189e-08,3.76175e-16,1.57945e-20,2.93393e-06,-3.25136e-09,-3.21145e-06,,,,total strain_3,
+Primary Statistics,15,587504,,4.52075e-09,6.15255e-18,7.21423e-22,1.03467e-06,2.77899e-09,-1.39888e-06,,,,total strain_4,
+Primary Statistics,16,587504,,3.22511e-09,-1.10135e-16,4.3603e-22,1.04538e-06,-6.70531e-09,-1.06276e-06,,,,total strain_5,
+Primary Statistics,17,587504,,5.96912e-08,5.28447e-14,9.25457e-20,5.43757e-06,1.96994e-07,8.64118e-25,,,,total strain_L₂,
+Primary Statistics,18,587504,,7.10114e+14,6.52779e+19,1.18064e+25,523112,21796.6,1.14967e-13,,,,von Mises stress,
+Derived Statistics,0,,41.1797,,,,,,,-0.167565,22883.3,-6.26903e+08,,5.23645e+08
+Derived Statistics,1,,27.5067,,,,,,,-0.0509792,28482,-4.31377e+08,,8.11224e+08
+Derived Statistics,2,,39.6449,,,,,,,0.0111823,15419.2,-1.82374e+08,,2.37752e+08
+Derived Statistics,3,,16.3145,,,,,,,0.0888522,15135.2,-1.49679e+08,,2.29075e+08
+Derived Statistics,4,,17.7388,,,,,,,0.0155148,6873.61,1.27933e+08,,4.72465e+07
+Derived Statistics,5,,21.6287,,,,,,,-0.460909,5805.66,-3.08684e+08,,3.37057e+07
+Derived Statistics,6,,23.1645,,,,,,,3.71053,37902.2,1.24383e+10,,1.43658e+09
+Derived Statistics,7,,nan,,,,,,,nan,0,0.00243612,,0
+Derived Statistics,8,,nan,,,,,,,nan,0,-0.00100751,,0
+Derived Statistics,9,,nan,,,,,,,nan,0,-2.67822e-05,,0
+Derived Statistics,10,,nan,,,,,,,nan,0,0.00429146,,0
+Derived Statistics,11,,nan,,,,,,,nan,0,-0.00398312,,0
+Derived Statistics,12,,21.8672,,,,,,,-0.0441877,2.24796e-07,-0.00148784,,5.05334e-14
+Derived Statistics,13,,nan,,,,,,,nan,0,0.00168992,,0
+Derived Statistics,14,,16.3145,,,,,,,0.0888522,1.93154e-07,-0.00191019,,3.73086e-14
+Derived Statistics,15,,nan,,,,,,,nan,0,0.00163267,,0
+Derived Statistics,16,,nan,,,,,,,nan,0,-0.0039394,,0
+Derived Statistics,17,,nan,,,,,,,nan,0,0.115735,,0
+Derived Statistics,18,,10.7555,,,,,,,2.64412,34766.3,1.28056e+10,,1.2087e+09
